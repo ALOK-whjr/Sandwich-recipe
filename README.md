@@ -1,3 +1,3 @@
 # Sandwich recipe
 
-![Sandwich](<https://image.shutterstock.com/image-photo/sandwitch-ham-260nw-1120849586.jpg>)
+![Sandwich](<https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gkuu8k1l1ftdjbibpoir>)
